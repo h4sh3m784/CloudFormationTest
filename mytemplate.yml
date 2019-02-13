@@ -1,0 +1,3 @@
+Resources:
+  MyCloudFormationTestBucket:
+    Type: AWS::S3::Bucket
