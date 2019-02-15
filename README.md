@@ -1,1 +1,1 @@
-CloudFormationTest
+CloudFormationTest :)
